@@ -25,3 +25,4 @@ Allocate resources for mitigation efforts according to the risk level.
 
 Contributions
 Contributions to the OWASP Risk Assessment Calculator are welcome! If you encounter any issues, have suggestions for improvement, or would like to add new features, please feel free to submit a pull request.
+![Untitled video - Made with Clipchamp](https://github.com/NIKHILVANGAMUDI8653/OWASP_risk_assessment_calculator/assets/86321865/cd84f5f1-a873-4ee9-8e9c-4572913b2ea6)
